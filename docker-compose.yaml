@@ -9,6 +9,8 @@ services:
       - "1433:1433"
     volumes:
       - vol-mssqldata:/var/opt/mssql
+      - ./datasets:/datasets  # <-- Add this line
+
 
 volumes:
   vol-mssqldata:
