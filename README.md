@@ -1,4 +1,4 @@
-![Logo](assets/medallion.png)
+![Logo](assests/medallion.png)
 
 
 # SQL-Datawarehouse
